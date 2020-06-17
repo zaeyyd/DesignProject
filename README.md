@@ -7,4 +7,4 @@ Project Final Report: https://github.com/zaeyyd/DesignProject/blob/master/DPB%20
 
 Video Demonstration Link: https://www.youtube.com/watch?v=pqMT_fuygzU
 
-<img src="/CADdesign"/>
+<img src="/CADdiagram.png"/>
